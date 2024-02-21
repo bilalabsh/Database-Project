@@ -1,4 +1,4 @@
-E-Commerce Website
+**E-Commerce Website**
 **Overview**
 This e-commerce website is a culmination of efforts to create a robust, user-friendly platform for online shopping. It incorporates essential features such as catalog browsing, personalized newsletters, cart functionality, and secure payments via Stripe.
 
