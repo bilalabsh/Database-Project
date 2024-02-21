@@ -1,8 +1,10 @@
-**E-Commerce Website**
+# E-Commerce Website
 **Overview**
+
 This e-commerce website is a culmination of efforts to create a robust, user-friendly platform for online shopping. It incorporates essential features such as catalog browsing, personalized newsletters, cart functionality, and secure payments via Stripe.
 
 **Features**
+
 Catalog Browsing: Users can explore a comprehensive catalogue of products across various categories.
 Personalised Newsletter: Subscribers receive tailored newsletters featuring updates, promotions, and new arrivals.
 Cart Functionality: Users can add items to their cart, review their selections, and proceed to checkout seamlessly.
@@ -10,6 +12,7 @@ Payment Method with Stripe: Secure payment processing is implemented using the S
 User Profiles: Registered users have access to personalized profiles, including order history and preferences.
 
 **Technologies Used**
+
 Backend: Developed using Node.js and Express.js to create a robust server-side environment.
 Database: MySQL is utilized for efficient data management and integration with the backend.
 Frontend: Crafted an intuitive user interface using HTML, CSS, and JavaScript for a seamless shopping experience.
